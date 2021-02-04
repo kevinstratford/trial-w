@@ -34,7 +34,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### My test content
 
-Here we would like A $f$.
+Here we would like to say
+$$
+f(\phi) = {\textstyle\frac{1}{2}}A\phi^2
+$$
 
 ### Support or Contact
 
